@@ -3,7 +3,6 @@ use dbtotens;
 
 CREATE TABLE prefeitura (
     idPrefeitura INT PRIMARY KEY AUTO_INCREMENT,
-    nome VARCHAR(100) NOT NULL,
 	senha VARCHAR(15) NOT NULL
 );
 
